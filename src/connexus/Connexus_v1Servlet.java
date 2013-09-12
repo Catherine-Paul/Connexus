@@ -12,6 +12,6 @@ public class Connexus_v1Servlet extends HttpServlet {
 			throws IOException {			            	
             resp.setContentType("text/plain");
             resp.getWriter().println("Welcome to Connexus!");
-    		resp.getWriter().println("Share the World!");
+    		resp.getWriter().println("Share the World! Testing.");
             	}
 }
